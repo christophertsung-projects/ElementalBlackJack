@@ -1,1 +1,1 @@
-This is a simple black jack game with a twist -- the suits are elements.
+This is a simple blackjack game with a twist -- the suits are elements.
